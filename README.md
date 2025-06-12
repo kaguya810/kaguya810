@@ -27,7 +27,7 @@
 
 ## 🌟 精选项目
 
-### 1. 🚀 [新能源汽车动力系统设计工具](https://github.com/kaguya810/EVCar-AutoDesigner)
+### 1. 🚀 [新能源汽车自动设计套件](https://github.com/kaguya810/EVCar-AutoDesigner)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-orange) 
 ![车辆工程](https://img.shields.io/badge/-车辆工程-blue)
 > 基于MATLAB的新能源汽车动力系统参数匹配与性能分析工具  
