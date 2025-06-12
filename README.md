@@ -5,33 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Kaguya810-black?style=flat-square&logo=github)](https://github.com/kaguya810)
 [![B站](https://img.shields.io/badge/Bilibili-月見山・輝夜-blue?style=flat-square&logo=bilibili)](https://space.bilibili.com/35197337)
 
-## 🚗 关于我
-
-```python
-class VehicleEngineer(東方厨, Programmer):
-    def __init__(self):
-        self.name = "YourName"
-        self.affiliation = "车辆工程专业学生"
-        self.interests = [
-            "新能源汽车设计", 
-            "计算机视觉应用", 
-            "自动化流程开发",
-            "东方Project"
-        ]
-        self.skills = {
-            "编程语言": ["Python", "C++", "MATLAB"],
-            "框架工具": ["Qt", "OpenCV", "Simulink"],
-            "工程领域": ["动力系统设计", "控制系统", "车辆动力学"]
-        }
-    
-    def solve_problems(self):
-        return "用代码解决繁琐工程流程"
-    
-    def contribute(self):
-        return "OpenMV2023电赛视觉代码"
-```
-
-一名穿梭于机械与代码世界的车辆工程学生。致力于用编程将繁琐的工程流程自动化，让工程师能专注于真正的创造。
+一名学习机械又爱好编程的车辆工程学生。致力于用编程将繁琐的工程流程自动化，让工程师能专注于真正的创造。
 
 ## 🔧 技术栈
 
