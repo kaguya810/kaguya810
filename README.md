@@ -1,6 +1,10 @@
 
 # 👋 你好，我是KAGUYA810
 
+[![Email](https://img.shields.io/badge/邮箱-kaguya810@petalmail.com-blue?style=flat-square&logo=gmail)](mailto:kaguya810@petalmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Kaguya810-black?style=flat-square&logo=github)](https://github.com/kaguya810)
+[![B站](https://img.shields.io/badge/Bilibili-月見山・輝夜-blue?style=flat-square&logo=bilibili)](https://space.bilibili.com/35197337)
+
 ## 🚗 关于我
 
 ```python
@@ -103,14 +107,8 @@ def detect_objects(frame):
   
 ![](https://github-readme-stats.vercel.app/api?username=kaguya810&show_icons=true&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kaguya810&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaguya810&layout=compact&theme=tokyonight)
 
 </div>
 
-## 📬 联系我
-
-[![Email](https://img.shields.io/badge/邮箱-kaguya810@petalmail.com-blue?style=flat-square&logo=gmail)](mailto:kaguya810@petalmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Kaguya810-black?style=flat-square&logo=github)](https://github.com/kaguya810)
-[![B站](https://img.shields.io/badge/Bilibili-月見山・輝夜-blue?style=flat-square&logo=bilibili)](https://space.bilibili.com/35197337)
 
 *このコードも幻想のままに~* ✨
