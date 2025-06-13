@@ -7,6 +7,15 @@
 
 一名学习机械又爱好编程的车辆工程学生。致力于用编程将繁琐的工程流程自动化，让工程师能专注于真正的创造。
 
+## 📊 开发活动统计
+
+<!-- GitHub统计卡片 -->
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=kaguya810&show_icons=true&theme=tokyonight)
+
+</div>
+
 ## 🔧 技术栈
 
 ### 🛠 编程语言
@@ -39,15 +48,6 @@
 ![OpenMV](https://img.shields.io/badge/-OpenMV-redviolet)
 > 2023年全国大学生电子设计竞赛视觉识别解决方案  
 > 🏆 提供高效的目标追踪算法
-
-## 📊 开发活动统计
-
-<!-- GitHub统计卡片 -->
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=kaguya810&show_icons=true&theme=tokyonight)
-
-</div>
 
 
 *このコードも幻想のままに~* ✨
