@@ -46,7 +46,6 @@
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=kaguya810&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=kaguya810&theme=tokyonight)
 
 </div>
 
