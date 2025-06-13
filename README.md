@@ -33,46 +33,12 @@
 > 基于MATLAB的新能源汽车动力系统参数匹配与性能分析工具  
 > ✨ 特征：电机参数匹配、电池系统设计、传动比优化、性能分析
 
-```matlab
-% 驱动力-阻力平衡分析
-function analyze_performance()
-    % 参数定义
-    v = linspace(0, 140, 500); % 车速范围 (km/h)
-    F_drive = calculate_drive_force(v);
-    F_resistance = calculate_resistance(v);
-    
-    % 找到平衡点
-    crossover_idx = find(F_drive >= F_resistance, 1, 'last');
-    v_max = v(crossover_idx);
-    
-    fprintf('最高车速: %.1f km/h\n', v_max);
-end
-```
-
 ### 2. 👁️ [OpenMV 2023电赛视觉解决方案](https://github.com/kaguya810/TI2023-E-OpenMV.Part)
 ![Python](https://img.shields.io/badge/-Python-yellow) 
 ![OpenCV](https://img.shields.io/badge/-OpenCV-blueviolet)
 ![OpenMV](https://img.shields.io/badge/-OpenMV-redviolet)
 > 2023年全国大学生电子设计竞赛视觉识别解决方案  
 > 🏆 提供高效的目标追踪算法
-
-```python
-def detect_objects(frame):
-    """高效物体检测算法"""
-    # 预处理图像
-    processed = preprocess_frame(frame)
-    
-    # 使用优化轮廓检测
-    contours = find_contours(processed)
-    
-    # 特征提取与过滤
-    valid_objects = []
-    for cnt in contours:
-        if is_valid_object(cnt):
-            valid_objects.append(extract_features(cnt))
-    
-    return valid_objects
-```
 
 ## 📊 开发活动统计
 
